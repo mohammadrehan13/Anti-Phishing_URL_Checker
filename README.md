@@ -1,3 +1,4 @@
+![Anti-Phishing Banner](banner.png)
 # Anti-Phishing URL Checker
 
 A simple web-based tool to detect potentially phishing URLs using basic pattern matching. Built as a student project to demonstrate basic web development and cybersecurity awareness.
